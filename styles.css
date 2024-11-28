@@ -1,0 +1,34 @@
+body {
+
+color:white;
+background: rgb(92, 87, 87);
+margin: 2px;
+
+}
+
+header {
+
+    border-bottom : solid 2px palevioletred;
+    font-size: 54px;
+    color: rgb(59, 2, 59);S
+}
+
+section {
+
+
+    background: rgb(184, 156, 213);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+
+}
+
+div {
+    margin-right: 20px;
+}
+
+.categoria-videos {
+    justify-content: center;
+
+}
